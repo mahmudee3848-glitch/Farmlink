@@ -21,3 +21,10 @@ export default defineConfig(({ mode }) => {
       }
     };
 });
+server: {
+  allowedHosts: [
+    'localhost',
+    'farmlink-mdps.onrender.com',
+    'my-staging-domain.com'
+  ]
+}
