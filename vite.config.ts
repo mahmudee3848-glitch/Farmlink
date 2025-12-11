@@ -24,7 +24,7 @@ export default defineConfig(({ mode }) => {
 server: {
   allowedHosts: [
     'localhost',
-    'farmlink-mdps.onrender.com',
+    'farmlink-kd6w.onrender.com',
     'my-staging-domain.com'
   ]
 }
