@@ -25,6 +25,7 @@ server: {
   allowedHosts: [
     'localhost',
     'farmlink-kd6w.onrender.com',
-    'my-staging-domain.com'
+    'my-staging-domain.com',
+    'farmlink.graintox.com'
   ]
 }
